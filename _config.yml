@@ -9,7 +9,7 @@ version: 2
 name: Christina Yun-Jie Wu
 title: Data Analyst
 email: cyjwuwwwww@gmail.com
-website: www.github.com/yunjiewuw/yunjiewuw.github.io
+wwebsite: www.github.com/yunjiewuw/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -24,7 +24,7 @@ linkedin_username: yun-jie-christina-wu
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://vocus.cc/user/@yunjie_christina
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -39,10 +39,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Christina and I'm a new graduate skilled in data analysis.
+  Hi, my name's Christina and I'm a new graduate passionated and skilled in insight mining through data analysis.
   A Fast-learning with a blending business insight and scientific critical thinking. Showcases strong self-learning and discipline by effectively managing research projects and accumulating insightful business investment observations.  
 
-  I am most skilled in: <mark>python</mark> and <mark>SQL</mark> Data Analysis
+  I am most skilled in: <mark>python</mark> and <mark>SQL</mark> 
 
 content:
   - title: Projects # Title for the section
@@ -60,26 +60,28 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          The attempt of conducting business stragetic insights to ecommerce transaction data
+          The project aims to provide valuable business insights to an e-commerce firm by analyzing transaction data from 2019 (Kaggle Database). 
         description: | # this will include new lines to allow paragraphs
-          EDA, LTV prediction, customer segregation, sales bundle prediction, Next purchase range prediction. <mark> supervised/unsupervised ML </mark>
+          The analysis includes various aspects such as revenue differences between new and old customers, predicting customer lifetime value, identifying sales bundles, and segmenting customers using both heuristic and machine learning techniques. Leveraging transaction, tax, and spend datasets, this project serves as a foundation for deriving actionable business strategies.The attempt of conducting business stragetic insights to ecommerce transaction data
+          Analysis: EDA, LTV prediction, customer segregation, sales bundle prediction, Next purchase range prediction. <mark> supervised/unsupervised ML </mark>
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Hung-Tse Invesment
-        link: boringcompany.com
+        # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Venture Capital Analysis (Part-time )
         caption: Sept 2023 - Jan 2024
         quote: >
-          Deal sourcing 20+ startup companies, organizing and hosting 7+ con-calls based in Taiwan. 
-          Conducted 2 comprehensive due diligence on B2B companies, assessing potential investment opportunities from financial, business strategic, product competition, and team perspectives on content creation market, 3 PL Logistic sectors. 
-          Managed account responsibilities for 1/3 of the portfolio, focusing market and business analysis, and evaluation of B2B and B2B2C go-to-market strategies
-          Co-directed stakeholder relations through proactive communication and support to portfolio companies
+          Business Insights, Analytic and Communication Skills
 
         description: | # this will include new lines to allow paragraphs
-          think think think (Everyday)
+          - Deal sourcing 20+ startup companies, organizing and hosting 7+ con-calls based in Taiwan. 
+          - Conducted 2 comprehensive due diligence on B2B companies, assessing potential investment opportunities from financial, business strategic, product competition, and team perspectives on content creation market, 3 PL Logistic sectors. 
+          - Managed account responsibilities for 1/3 of the portfolio, focusing market and business analysis, and evaluation of B2B and B2B2C go-to-market strategies
+          - Co-directed stakeholder relations through proactive communication and support to portfolio companies
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,12 +99,15 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data-based insight-mining 
-      - watch animal reels
-      - Wandering (both physcial and mental)
+      - Watch animal reels
+      - Wandering (both physcial and mental)and Journaling
       - Traveling and Vlogging
+      - Life question philosopher
 
-      Look at this cool image  
-      ![Trees](/yunjiewuw.github.io/images/landscape-trees.jpg "Trees")
+      Check out my YouTube and Reels where I will upload my Vlogs  
+      ![YouTube](https://youtube.com/@user-lo2cr4cs4n?si=tbV7e1boPclhxnFv "Videos")
+      Also check out my Blog or Twitter to see what's on my mind these days...  
+      ![Blog Post] (https://vocus.cc/user/@yunjie_christina)
 
 # Footer
 footer_show_references: true
