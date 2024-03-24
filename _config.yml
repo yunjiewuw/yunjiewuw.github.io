@@ -62,8 +62,13 @@ content:
         quote: >
           The project aims to provide valuable business insights to an e-commerce firm by analyzing transaction data from 2019 (Kaggle Database). 
         description: | # this will include new lines to allow paragraphs
-          The analysis includes various aspects such as revenue differences between new and old customers, predicting customer lifetime value, identifying sales bundles, and segmenting customers using both heuristic and machine learning techniques. Leveraging transaction, tax, and spend datasets, this project serves as a foundation for deriving actionable business strategies.The attempt of conducting business stragetic insights to ecommerce transaction data
-          Analysis: EDA, LTV prediction, customer segregation, sales bundle prediction, Next purchase range prediction. <mark> supervised/unsupervised ML </mark>
+          The analysis includes various aspects and skillsets, such as: 
+          - EDA: Revenue differences between new and old customers, customer demo distribution under different coupon usages, etc
+          - Predicting customer lifetime value 
+          - Identifying potential sales bundles
+          - Segmenting customers using both heuristic and machine learning techniques. Leveraging transaction, tax, and spend datasets, this project serves as a foundation for deriving actionable business strategies.The attempt of conducting business stragetic insights to ecommerce transaction data
+          
+          skill sets: <mark> supervised/unsupervised ML </mark>
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -93,7 +98,11 @@ content:
         quote: >
           Relevant skills: Experimental Design, Programming in Python (A+), Multivariate Analysis (A+), Critical thinking
         description: | # this will include new lines to allow paragraphs
-          Managed experimental projects and made scientific publication (pending)
+          - Led end-to-end execution of neuroimaging experiments, from code development to data structure design, ensuring synchronization with scanner triggers for maximal data precision.
+          - Applied advanced Python libraries including Scikit-learn, Pandas, NumPy, and OS for thorough preprocessing and cleaning of extensive datasets, guaranteeing data integrity for subsequent analysis.
+          - Conducted General Linear Model (GLM) regression analysis on complex neuroimaging datasets, extracting beta brain patterns across mega data (238,955 brain voxels at 1274 timepoints across 20+ subjects) 
+          - Employed multivariate analysis techniques to assess brain activation similarity under varying conditions, driving hypothesis testing and uncovering crucial neural-cognitive relationships in neuroscience research.
+          - Impactful scientific journal publication (pending)
 
   - title: A Little More About Me
     layout: text
@@ -104,10 +113,10 @@ content:
       - Traveling and Vlogging
       - Life question philosopher
 
-      Check out my YouTube and Reels where I will upload my Vlogs  
-      ![YouTube](https://youtube.com/@user-lo2cr4cs4n?si=tbV7e1boPclhxnFv "Videos")
-      Also check out my Blog or Twitter to see what's on my mind these days...  
-      ![Blog Post] (https://vocus.cc/user/@yunjie_christina)
+      - :sparkles: Check out my YouTube and Reels where I will upload my Vlogs  
+      !["YouTube"](https://youtube.com/@user-lo2cr4cs4n?si=tbV7e1boPclhxnFv)
+      - Also check out my Blog or Twitter to see what's on my mind these days...  
+      !["Blog Post"] (https://vocus.cc/user/@yunjie_christina)
 
 # Footer
 footer_show_references: true
